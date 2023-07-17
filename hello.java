@@ -1,4 +1,4 @@
-//Hello boss//
+
 package org.jacoco.examples.maven.java;
 
 public class HelloWorld {
@@ -24,4 +24,3 @@ public class HelloWorld {
 						}
 
 }
-//comment added on 17/07/2023//
