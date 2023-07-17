@@ -1,4 +1,4 @@
-//Hello//
+//Hello boss//
 package org.jacoco.examples.maven.java;
 
 public class HelloWorld {
